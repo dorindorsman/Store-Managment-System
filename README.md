@@ -2,6 +2,7 @@
 A program that uses javafx to manage the system according to a template MVC and uses design patterns.
 
 #System description:
+
 All operations on the system that run at the user's request will be performed according to the Command template.
 The system will manage the products sold in the store. 
 Each product has the following features: 
