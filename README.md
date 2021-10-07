@@ -1,4 +1,4 @@
-# Stroe-Managment-System
+# Store-Managment-System
 A program that uses javafx to manage the system according to a template MVC and uses design patterns.
 
 #System description:
