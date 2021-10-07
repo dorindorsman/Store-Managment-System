@@ -1,7 +1,4 @@
-/*
- * Dorin Dorsman - 315827014
- * Yehiel Butael - 315016774
- */
+
 
 package View;
 import java.util.Map.Entry;
