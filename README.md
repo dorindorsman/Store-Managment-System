@@ -1,4 +1,6 @@
 # Store-Managment-System
+Attached is a video describing the project
+
 A program that uses javafx to manage the system according to a template MVC and uses design patterns.
 
 #System description:
