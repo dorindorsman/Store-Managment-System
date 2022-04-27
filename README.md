@@ -3,7 +3,7 @@ Attached is a video describing the project
 
 A program that uses javafx to manage the system according to a template MVC and uses design patterns.
 
-#System description:
+# System description:
 
 All operations on the system that run at the user's request will be performed according to the Command template.
 The system will manage the products sold in the store. 
@@ -18,11 +18,11 @@ The system will allow: product reception. Each product will be absorbed in appro
 
 Receives the various product data into Map objects, with only the product ID always used as the key. the system will support the following options as the user chooses: 
 
--Saves the products in Map in ascending order (Alpha Homes) according to the ID.
+- Saves the products in Map in ascending order (Alpha Homes) according to the ID.
 
--Saves the products in Map descending order (Alpha Homes) according to the ID. 
+- Saves the products in Map descending order (Alpha Homes) according to the ID. 
 
--Saves the products in Map in the order of the products were enter. 
+- Saves the products in Map in the order of the products were enter. 
 
 Any option once selected is valid until the program is finished.
 
