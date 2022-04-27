@@ -1,10 +1,7 @@
 # Store-Managment-System
-Attached is a video describing the project
+- A program that uses javafx to manage the system according to a template MVC and uses design patterns.
 
-A program that uses javafx to manage the system according to a template MVC and uses design patterns.
-
-
-
+- There is an attached video describing the project:
 
 https://user-images.githubusercontent.com/62396222/165520348-da23e00b-a320-4ff0-b35f-931e5db26f8e.mp4
 
